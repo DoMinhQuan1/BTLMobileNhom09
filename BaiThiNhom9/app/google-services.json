@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129694598251",
+    "project_id": "game-tinh-toan",
+    "storage_bucket": "game-tinh-toan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129694598251:android:2ca814acd3487059491d2e",
+        "android_client_info": {
+          "package_name": "com.example.game_tinh_toan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129694598251-jbcohkb1cnp4kp1ule4tlhrvmml1rh64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oUdvgd1XDcqtMll_rQNF3DoXazQpEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129694598251-jbcohkb1cnp4kp1ule4tlhrvmml1rh64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
